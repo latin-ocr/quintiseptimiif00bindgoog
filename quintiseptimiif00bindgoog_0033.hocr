@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./quintiseptimiif00bindgoog_0033.png"; bbox 0 0 2784 4242; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 153 1706 1124 2042">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 153 1706 1124 2042">
+     <span class='ocr_line' id='line_1_1' title="bbox 153 1706 1124 1840; baseline 0.002 -6"><span class='ocrx_word' id='word_1_1' title='bbox 153 1760 566 1839; x_wconf 78' lang='lat' dir='ltr'><strong>APOLOGETIOUS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 601 1762 886 1840; x_wconf 76' lang='lat' dir='ltr'><strong>ADVERSUS</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 921 1706 1124 1838; x_wconf 62' lang='lat' dir='ltr'>assms</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 399 1965 894 2042; baseline 0.004 -4"><span class='ocrx_word' id='word_1_4' title='bbox 399 1965 504 2041; x_wconf 82' lang='lat' dir='ltr'>PRO</span> <span class='ocrx_word' id='word_1_5' title='bbox 541 1965 894 2042; x_wconf 68' lang='lat' dir='ltr'>oflfflsmms.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 512 2537 871 2848">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 512 2537 871 2848">
+     <span class='ocr_line' id='line_1_3' title="bbox 558 2537 828 2627; baseline 0.007 -36"><span class='ocrx_word' id='word_1_6' title='bbox 558 2537 665 2625; x_wconf 39' lang='lat' dir='ltr'>gesse</span> <span class='ocrx_word' id='word_1_7' title='bbox 691 2537 828 2627; x_wconf 48' lang='lat' dir='ltr'>mam„</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 512 2612 871 2734; baseline 0.028 -11"><span class='ocrx_word' id='word_1_8' title='bbox 512 2612 871 2734; x_wconf 52' lang='lat' dir='ltr'>Umvoffism</span> 
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 584 2753 792 2848; baseline -0.005 -4"><span class='ocrx_word' id='word_1_9' title='bbox 584 2753 792 2848; x_wconf 59' lang='lat' dir='ltr'>Qssssnm»</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1396 4242">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1396 4242">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1396 4242; baseline 0 0"><span class='ocrx_word' id='word_1_10' title='bbox 0 0 1396 4242; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
